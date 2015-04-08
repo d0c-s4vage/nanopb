@@ -1,0 +1,7 @@
+{
+	"name": "nanopb",
+	"author": "James Johnson <d0c.s4vage@gmail.com> (fork), original author: Petteri Aimonen <jpa at nanopb.mail.kapsi.fi>",
+	"license": "MIT",
+	"version": "0.0.1",
+	"description": "An attempt to get nanopb working with Spark Core"
+}
